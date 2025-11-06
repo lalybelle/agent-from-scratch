@@ -17,7 +17,11 @@ export const reddit: ToolFn<Args, string> = async ({
   toolArgs,
   userMessage,
 }) => {
-  const { data } = await fetch('https://www.reddit.com/.json').then((res) =>
+  const headers = {
+    'User-Agent': 'cli:reddit-agent:v1.0',
+    'Accept': 'application/json'
+  }
+  const { data } = await fetch('https://www.reddit.com/.json', {headers}).then((res) =>
     res.json()
   )
 
