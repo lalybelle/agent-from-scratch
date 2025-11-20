@@ -1,3 +1,49 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is reddit telling about Json Momoa?",
+      "id": "7e829658-b14e-4f12-a0df-05f08ee37c33",
+      "createdAt": "2025-11-20T10:58:58.312Z"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_BKcBJdJEhOiN3B0Leuhn3zSX",
+          "type": "function",
+          "function": {
+            "name": "reddit",
+            "arguments": "{}"
+          }
+        }
+      ],
+      "refusal": null,
+      "annotations": [],
+      "id": "9cb8db0a-e2a9-4789-9b29-593dcdb66eb5",
+      "createdAt": "2025-11-20T10:58:59.644Z"
+    },
+    {
+      "role": "tool",
+      "content": "[\n  {\n    \"title\": \"theCompleteVersion\",\n    \"link\": \"https://i.redd.it/fssncvd24d2g1.jpeg\",\n    \"subreddit\": \"r/ProgrammerHumor\",\n    \"author\": \"icap_jcap_kcap\",\n    \"upvotes\": 14712\n  },\n  {\n    \"title\": \"Stealing fan works\",\n    \"link\": \"https://i.redd.it/mv8xuhcr6d2g1.gif\",\n    \"subreddit\": \"r/StarWars\",\n    \"author\": \"solanimus\",\n    \"upvotes\": 7848\n  },\n  {\n    \"title\": \"Guess it’s time to sell my Toyota now.\",\n    \"link\": \"https://i.redd.it/kxb78us1e82g1.jpeg\",\n    \"subreddit\": \"r/complaints\",\n    \"author\": \"Terrasmak\",\n    \"upvotes\": 45391\n  },\n  {\n    \"title\": \"Meet Yoshinori Ohsumi\",\n    \"link\": \"https://i.redd.it/tipnn7zp2c2g1.png\",\n    \"subreddit\": \"r/BeAmazed\",\n    \"author\": \"Fun-Eye-4358\",\n    \"upvotes\": 29194\n  },\n  {\n    \"title\": \"Went to the bathroom, turned on the lights and saw this masterpiece\",\n    \"link\": \"https://i.redd.it/8n7p32nlnb2g1.jpeg\",\n    \"subreddit\": \"r/cats\",\n    \"author\": \"melissa_fosho\",\n    \"upvotes\": 34886\n  },\n  {\n    \"title\": \"What has been irrevocably harmed because of how it’s portrayed in the media?\",\n    \"link\": \"https://www.reddit.com/r/AskReddit/comments/1p1c80x/what_has_been_irrevocably_harmed_because_of_how/\",\n    \"subreddit\": \"r/AskReddit\",\n    \"author\": \"Exhausted_Skeleton\",\n    \"upvotes\": 6182\n  },\n  {\n    \"title\": \"Reporter: “Will you release all the files within 30 days?” BONDI: “We’ll continue to follow the law.” Reporter: “You said no addition investigation was warranted. What changed?” BONDI: “Information that has come.. Information. Um, there's information, new information. Additional information.”\",\n    \"link\": \"https://v.redd.it/dz79e2iwn92g1\",\n    \"subreddit\": \"r/law\",\n    \"author\": \"MoreMotivation\",\n    \"upvotes\": 60938\n  },\n  {\n    \"title\": \"She looks so tired\",\n    \"link\": \"https://v.redd.it/lb2xlsknia2g1\",\n    \"subreddit\": \"r/CringeTikToks\",\n    \"author\": \"Ordinary_Fish_3046\",\n    \"upvotes\": 23873\n  },\n  {\n    \"title\": \"Trump signs bill to release the DOJ's Epstein files\",\n    \"link\": \"https://www.nbcnews.com/politics/white-house/trump-signs-bill-release-justice-department-jeffrey-epstein-files-rcna244793\",\n    \"subreddit\": \"r/news\",\n    \"author\": \"scrandis\",\n    \"upvotes\": 22149\n  },\n  {\n    \"title\": \"Reason #1 Why I Refuse To Travel To Australia😱\",\n    \"link\": \"https://v.redd.it/g72u0gq9692g1\",\n    \"subreddit\": \"r/interestingasfuck\",\n    \"author\": \"AceOneBreezy\",\n    \"upvotes\": 8703\n  },\n  {\n    \"title\": \"[autosport] Max Verstappen's list of changes he would make to F1. You can watch the full interview on @1password's YouTube\",\n    \"link\": \"https://i.redd.it/xybl9n65md2g1.jpeg\",\n    \"subreddit\": \"r/formula1\",\n    \"author\": \"FewCollar227\",\n    \"upvotes\": 3691\n  },\n  {\n    \"title\": \"UK on US peace plan: Russia can end war by withdrawing its troops – Reuters\",\n    \"link\": \"https://www.pravda.com.ua/eng/news/2025/11/20/8008119/\",\n    \"subreddit\": \"r/worldnews\",\n    \"author\": \"jackytheblade\",\n    \"upvotes\": 6317\n  },\n  {\n    \"title\": \"4 burned dots appeared on the floor of my appartment... No clue what it is\",\n    \"link\": \"https://i.redd.it/cv21dl10n82g1.jpeg\",\n    \"subreddit\": \"r/whatisit\",\n    \"author\": \"xelifnaej\",\n    \"upvotes\": 26137\n  },\n  {\n    \"title\": \"anime_irl\",\n    \"link\": \"https://i.redd.it/6hrnzop1lc2g1.jpeg\",\n    \"subreddit\": \"r/anime_irl\",\n    \"author\": \"Incubusphantom\",\n    \"upvotes\": 7653\n  },\n  {\n    \"title\": \"I always wonder how Neanderthals perceived Homo Sapiens\",\n    \"link\": \"https://i.redd.it/ke2pzl2ead2g1.jpeg\",\n    \"subreddit\": \"r/HistoryMemes\",\n    \"author\": \"OkSuccess7431\",\n    \"upvotes\": 4185\n  },\n  {\n    \"title\": \"Explain it peter\",\n    \"link\": \"https://i.redd.it/5d4cm0pmd92g1.jpeg\",\n    \"subreddit\": \"r/explainitpeter\",\n    \"author\": \"adolf_riizzzler\",\n    \"upvotes\": 44013\n  },\n  {\n    \"title\": \"Magicians never reveal their secrets\",\n    \"link\": \"https://v.redd.it/tzdj4xjpwb2g1\",\n    \"subreddit\": \"r/funny\",\n    \"author\": \"Boydcrowde\",\n    \"upvotes\": 11786\n  },\n  {\n    \"title\": \"Look at me\",\n    \"link\": \"https://i.redd.it/l0xqta5fdc2g1.jpeg\",\n    \"subreddit\": \"r/wallstreetbets\",\n    \"author\": \"aegiscy\",\n    \"upvotes\": 7805\n  },\n  {\n    \"title\": \"In 1987, a teenage amateur German pilot flew through the supposedly impenetrable Soviet Air Defence system without authorization and landed next to Red Square in Moscow\",\n    \"link\": \"https://i.redd.it/07ghgodoxd2g1.jpeg\",\n    \"subreddit\": \"r/Damnthatsinteresting\",\n    \"author\": \"ModenaR\",\n    \"upvotes\": 2602\n  },\n  {\n    \"title\": \"A tourist in Buenos Aires takes down a bike-riding phone thief and holds him until police arrive.\",\n    \"link\": \"https://v.redd.it/4lgd1q0ad72g1\",\n    \"subreddit\": \"r/BeAmazed\",\n    \"author\": \"Kindly_Department142\",\n    \"upvotes\": 111358\n  },\n  {\n    \"title\": \"Nicki Minaj faces backlash after accepting role in Trump administration\",\n    \"link\": \"https://azexpress.net/en/posts/1348/nicki-minaj-faces-backlash-after-accepting-role-in-trump-administration\",\n    \"subreddit\": \"r/Music\",\n    \"author\": \"BachMinhJR\",\n    \"upvotes\": 29625\n  },\n  {\n    \"title\": \"We are 7 Doctors. In a single hotel suite. AMA AskUsAnything.\",\n    \"link\": \"https://www.reddit.com/r/AMA/comments/1p1lg1l/we_are_7_doctors_in_a_single_hotel_suite_ama/\",\n    \"subreddit\": \"r/AMA\",\n    \"author\": \"LarryLegend4ever\",\n    \"upvotes\": 1978\n  },\n  {\n    \"title\": \"..Brandon Lee in The Crow…\",\n    \"link\": \"https://i.redd.it/5fwonnki0b2g1.jpeg\",\n    \"subreddit\": \"r/FIlm\",\n    \"author\": \"Front_Statement_3986\",\n    \"upvotes\": 1387\n  },\n  {\n    \"title\": \"White House officials say Trump is plotting retribution after Epstein bill vote\",\n    \"link\": \"https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-retribution-democrats-epstein-b2868464.html\",\n    \"subreddit\": \"r/politics\",\n    \"author\": \"nakorurukami\",\n    \"upvotes\": 21982\n  },\n  {\n    \"title\": \"The Ozempicdemic Has Brought Pro-Anorexia Culture Back\",\n    \"link\": \"https://v.redd.it/arvazocorb2g1\",\n    \"subreddit\": \"r/TikTokCringe\",\n    \"author\": \"InGeekiTrust\",\n    \"upvotes\": 12636\n  }\n]",
+      "tool_call_id": "call_BKcBJdJEhOiN3B0Leuhn3zSX",
+      "id": "cedcf372-47f8-4348-b755-057d23a98012",
+      "createdAt": "2025-11-20T10:59:00.271Z"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems that there isn't any specific discussion about \"Json Momoa\" on Reddit at the moment. However, there are various trending posts across different subreddits. If you're looking for something specific or want to know more about a particular topic, feel free to ask!",
+      "refusal": null,
+      "annotations": [],
+      "id": "ad032bc9-ab8c-4078-98a2-f4673fc63ef9",
+      "createdAt": "2025-11-20T10:59:02.716Z"
+    },
+    {
+      "role": "user",
+      "content": "Telle me some news from New York?",
+      "id": "ef0cdbbc-1f47-4229-bfb9-23596bcc70b1",
+      "createdAt": "2025-11-20T10:59:32.368Z"
+    }
+  ]
 }
